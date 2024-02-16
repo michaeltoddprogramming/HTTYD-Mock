@@ -1,2 +1,3 @@
 # HTTYD-Mock
-I Developed a mock frontend website For the HTTYD Franchise
+
+This Project consists of only Frontend implementation, I managed to complete this in 2 days and got the award for best Website in my Multimedia Module
